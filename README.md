@@ -4,12 +4,13 @@ My name is Guilherme Barros (he/him).
 
 ## 🔭 Currently work
 
-Enkel TI from Brazil as Infrastructure Architect!
-Working mostly with Kubernets in AWS along with planing and drawing project's infraestructure. Developer since 2013.
-Also develop side projects with Node.js, Typescript and React.
+Flatirons Development from US as Software Engineer!
+Working mostly with React, NodeJS and TypeScript for startup projects. Developer since 2013.
+Also develop side projects with AWS(Lambda, DynamoDB, etc.), MongoDB and other technologies.
 
 ## 🌱 Currently learning
 
+- DynamoDB
 - Swift
 - Docker
 - Linux
